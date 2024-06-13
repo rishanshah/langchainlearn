@@ -1,0 +1,2 @@
+run_local: true
+local_llm: gdisney/mistral-uncensored
