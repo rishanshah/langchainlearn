@@ -3,6 +3,7 @@ from langchain_community.chat_models import ChatOllama
 from langchain_core.output_parsers import JsonOutputParser
 from langchain_mistralai.chat_models import ChatMistralAI
 
+mistral_api_key = None
 
 if __name__ == '__main__':
 # LLM
